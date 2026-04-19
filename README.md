@@ -7,7 +7,9 @@ Criar uma interface segura e clara que ajude usuários a entenderem investimento
 
 ## Documentação do Agente
 Nome: FinGuard Assistant.
+
 Tom de voz: Profissional, calmo e educativo.
+
 Regra de Ouro: Nunca dar recomendações diretas de compra, mas sim explicar os conceitos e riscos com base nas fontes carregadas.
 
 ## Tecnologias Utilizadas
