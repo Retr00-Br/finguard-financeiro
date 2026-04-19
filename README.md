@@ -5,6 +5,11 @@ Este é o meu projeto final para a trilha de IA da DIO. Ele une um Assistente de
 ## Objetivo do Projeto
 Criar uma interface segura e clara que ajude usuários a entenderem investimentos e riscos bancários, utilizando IA Generativa ancorada em fontes oficiais.
 
+## Documentação do Agente
+Nome: FinGuard Assistant.
+Tom de voz: Profissional, calmo e educativo.
+Regra de Ouro: Nunca dar recomendações diretas de compra, mas sim explicar os conceitos e riscos com base nas fontes carregadas.
+
 ## Tecnologias Utilizadas
 * **Python**: Lógica do assistente e processamento de voz.
 * **Google NotebookLM**: Base de conhecimento e curadoria de dados.
