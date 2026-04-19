@@ -98,17 +98,17 @@ Síntese de Voz (TTS): Transformação das respostas técnicas em áudio claro, 
 pip install SpeechRecognition pyttsx3 gTTS pygame
 
 ### Etapa 6: Pitch - FinGuard AI
-6.1. O Problema
+6.1 - O Problema
 No cenário atual, investidores iniciantes enfrentam dois grandes desafios: a complexidade técnica dos produtos bancários e o risco de obter informações imprecisas (alucinações) ao utilizar IAs generativas comuns para consultas financeiras.
 
-6.2. A Solução (FinGuard AI)
+6.2 - A Solução (FinGuard AI)
 O FinGuard AI é uma experiência digital de relacionamento financeiro que une a praticidade da Interface de Voz com o rigor da Curadoria Técnica.
 
 Diferencial: Diferente de modelos abertos, nossa IA é ancorada (Grounding) em uma biblioteca digital de 10 fontes oficiais, incluindo Benjamin Graham e relatórios do Banco Central.
 
 UX/UI: O sistema oferece um fluxo natural de conversação, permitindo que o usuário aprenda conceitos complexos (como Selic e Margem de Segurança) de forma simples, rápida e, acima de tudo, confiável.
 
-6.3. Conclusão e Entrega
+6.3 - Conclusão e Entrega
 Este projeto demonstra a viabilidade de utilizar ferramentas de IA Generativa (NotebookLM + Python) para criar soluções de Customer Experience de alto valor agregado, priorizando a integridade da informação e a acessibilidade através da voz.
 
 ## Tecnologias Utilizadas
